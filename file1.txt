@@ -22,3 +22,9 @@ more changes in master
 
 
 
+# the following have been merged into master
+Here are some changes that I propose in beta
+Additional line added in beta
+
+# we have added additional lines in master
+more changes in master
